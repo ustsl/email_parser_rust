@@ -1,0 +1,14 @@
+{
+    "sogaz_rule": {
+        "sender": "@sogaz.ru",
+        "header": "%...%"
+    },
+    "reso_rule": {
+        "sender": "info@reso.ru",
+        "header": ""
+    },
+    "imvo_rule": {
+        "sender": "work@imvo.site",
+        "header": ""
+    }
+}

@@ -1,0 +1,8 @@
+[package]
+name = "email_connect"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+imap = "2"
+native-tls = "0.2"
